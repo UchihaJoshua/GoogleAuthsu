@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "GoogleAuth",
+    "slug": "googleauth",
+    "scheme": "googleauth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lalamban.googleauth"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9de241b5-4341-47e7-a44f-9f373f0bd1f0"
+      }
+    },
+    "owner": "lalamban"
+  }
+}
